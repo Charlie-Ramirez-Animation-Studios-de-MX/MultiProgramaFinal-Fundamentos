@@ -1,0 +1,11 @@
+Mpxplay v1.60 final for Win32 console (unicode version)
+
+AAC,AC3,AIF,APE,ASF/WMA,AVI,FLAC,FLV,MKV/WEBM,MP2,MP3,MP4/MOV,MPC,
+MPG/VOB,OGG,TS,WAV,W64,WV and CD player/ripper (with plugins: DTS,MOD,OPUS,SPX)
+for Windows 2000/XP/Vista/Win7 operating systems (console/text desktop)
+with DirectSound, WaveMapper and WAV-file outputs
+from PDSoft (Attila Padar, Hungary)
+
+Bug reports, suggestions, greetings, email:  mpxplay@freemail.hu
+
+Read TXT files and see mpxplay.ini for more informations.
